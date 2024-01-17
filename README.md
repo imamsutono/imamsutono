@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imamsutono
-- 👀 I’m interested in tech, especially in Web Development stuff
-- 🌱 I’m currently learning NodeJS, Go, and also leadership skill (you know, I'm is a PasuruanDev community leader)
+- 👀 Passionate in Web Development stuff using PHP Laravel and React.js
+- 🌱 Currently learning NodeJS for my backend tech stack
 - 💞️ I’m looking to collaborate on IT community or others related to that
 - 📫 You can reach me at:
 - Instagram: <a href="https://instagram.com/imam.sutono">@imam.sutono</a>
